@@ -1,0 +1,62 @@
+html {
+	margin: 0;
+	font-family: sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.container {
+  margin: 0 auto;
+  min-width: 700px;
+  width: 960px;
+}
+
+.container2 {
+  margin: 0 auto;
+  min-width: 700px;
+  width: 1090px;
+}
+
+#intro {
+	margin: 35px 0;
+}
+
+#intro p {
+	text-align: justify;
+	font-size: 127.2%;
+	line-height: 1.5;
+}
+
+.row {
+	margin: 15px 0;
+}
+
+.image {
+	float: left;
+	width: 25%;
+	text-align: center;
+}
+
+#footer {
+	text-align: center;
+}
+
+#footer p {
+	font-size: 13px;
+}
+
+#footer ul li {
+	display: inline;
+	padding: 0 10px;
+} 
+
+#footer ul li a{
+	font-size: 12px;
+}
